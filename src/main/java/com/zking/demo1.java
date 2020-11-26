@@ -21,5 +21,6 @@ package com.zking;
 public class demo1 {
     public static void main(String[] args) {
         System.out.printf("hello ");
+        System.out.printf(123);
     }
 }
